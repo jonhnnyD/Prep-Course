@@ -1,0 +1,19 @@
+Tipo de datos de java script
+Podemos definir como variables  como la asignación de un valor determinado a un elemento ejemplo; Raúl  = “hombre” (como decir: Raúl es hombre), esta se puede modificar si queremos 
+o usarla más adelante en el código para validar datos. 
+
+El valor generado en la variable Raúl que vimos arriba (hombre), se lo conoce como string que este se define como una cadena de texto, dado que la PC tiene que interpretarlo de 
+alguna manera y estos van encerrados entre comillas dobles o simples ,“ ”,’ ’. Sin esta forma de escritura se puede confundir con el código y fallar.
+Tenemos otros tipo de datos también importantes llamados boléanos, son un tipo de atributo que nos retornan si algo es verdadero(true), o falso (false), 
+esto se usa mucho en los condicionales IF dado que esto nos esta condicionando a que el valor dentro de esta condición nos retorne alguno de estos dos, es decir, 
+si  raul es igual a hombre entonces le damos una medalla (dado que es la afirmación es verdadera) si no se cumple esta condición, te damos un vaso de agua.
+En código se veria de la siguiente manera: 
+
+If (Raúl  == hombre ){alert (“te ganaste una estrella”)};else{alert(“te damos un vaso de agua”)};   
+
+Algo también muy importante son las funciones en la programación, estas nos ayudaran a lo largo de todos los procesos, sobre todo a conseguir no escribir tanto código repetivio 
+inescesariamente, para esto se usan las funciones un ejemplo de ello seria crear una calculadora para definir que tipo de operación deseamos realizar, 
+y luego introducir los valores y que esta sola haga las operaciones sin tener que decirle en cada proceso como se hace, 
+para estos se las nombra a las funciones y luego cuando son requeridas se las llama, 
+como en el ejemplo de la calculadora crearíamos una función para suma, resta, multiplicación, y división, luego llamaríamos a una de ella dependiendo la operación a realizar 
+luego ingresar los valores para la operación.
