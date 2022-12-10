@@ -1,0 +1,11 @@
+Los bucles for son bucles donde se le pide que recorra algun obejeto o haga dicha operacion un
+ numero finito de veces, ejemplo: "sumar 10 veces 2+4", gracias a los bucles for podemos hacerlo
+ sin necesidad de escribir 10 veces la operacion.
+
+ los operadores logicos && (and) , || (or), !(not), son utlizados para validar operaciones, el operador
+ && solo dejara pasar o seguir la operacion si los elemntos a cuestionar son verdaderos, ejemplo: 
+ si la expresiones comparadas son true y true continuara con el preoceso if (true && true) solo si ambas son verdaderas.
+ En cambio el comparador || or si una de las dos se cumple continuara con el codigo if (true || false) ó if (false || true) ó if (true ||true)
+ continua con el codigo.
+ el ultimo comparador logico es not !, este compara si la epresion que preguntamos no se cumple, si tal cosa no es igual a tal otra continua,
+ debera dar false para que continue con el codigo. 

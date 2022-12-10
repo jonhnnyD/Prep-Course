@@ -161,11 +161,9 @@ function empiezaConNueve(n) {
   //inicia con 9 y false en otro caso.
   //Escribe tu código aquí
   if (n == 9 || n > 89 && n<100 )return true;
-  else{return false;}
-  
+  else{return false;
+  }
 }
-
-
 function todosIguales(arreglo) {
   //Escriba la función todosIguales, que indique si todos los elementos de un arreglo son iguales:
   //retornar true, caso contrario retornar false.
@@ -175,11 +173,8 @@ function todosIguales(arreglo) {
       return true;
     }
     else {
-      return false;
-    }
-  }
-  
-} 
+      return false;}}  
+}
 
 
 function mesesDelAño(array) {

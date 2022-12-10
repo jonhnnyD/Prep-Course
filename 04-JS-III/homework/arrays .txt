@@ -1,0 +1,4 @@
+Arrays:
+el metodo array consiste en una especie de contenedor o caja donde yo puedo almacenar distintos tipos de valores o elementos, como en 
+una caja en la vida real o un archivero, en el cual sabiendo su posicion se puede acceder al elemto, cambiarlo de carpeta, borrarlo o simplemente obtener
+informacion de el para validar dicha informacion.
