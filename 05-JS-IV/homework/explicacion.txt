@@ -1,0 +1,8 @@
+Bueno, cuando hablamos de "objetos" en JavaScript, nos referimos a cosas que existen dentro del programa. 
+Por ejemplo, podemos tener un objeto que represente un perro, un objeto que represente una pelota, un objeto que represente una casa, y así. 
+Cada objeto tiene unas "propiedades" que nos dicen cosas sobre ese objeto. Por ejemplo, el objeto perro podría tener una propiedad "nombre" 
+que nos dice el nombre del perro, una propiedad "edad" que nos dice cuántos años tiene, y una propiedad "raza" que nos dice de qué raza es.
+
+Los "métodos" son como acciones que un objeto puede hacer. Por ejemplo, el objeto perro podría tener un método "ladrar" que hace que el perro ladre, 
+un método "comer" que hace que el perro coma, y un método "jugar" que hace que el perro juegue. 
+Así, podemos decir cosas como "perro.ladrar()" para hacer que el perro ladre, o "perro.comer()" para hacer que el perro coma.

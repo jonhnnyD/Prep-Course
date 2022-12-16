@@ -1,0 +1,8 @@
+Bueno, cuando hablamos de "prototipos" en JavaScript nos referimos a la forma en que las cosas funcionan en la programación.
+Imagine que cada vez que queremos crear un nuevo objeto en JavaScript, tenemos que seguir una serie de instrucciones para decirle al programa exactamente cómo debe ser ese objeto.
+Por ejemplo, si queremos crear un objeto que represente un perro, tendríamos que decirle al programa que ese objeto tendrá un nombre, una edad, una raza, y cosas así.
+
+Los "constructores" son como una plantilla que nos ayuda a crear estos objetos de forma más fácil y rápida.
+En lugar de tener que escribir todas las instrucciones cada vez que queramos crear un nuevo perro, podemos usar un constructor que ya tiene todas esas instrucciones predefinidas.
+Así, cada vez que queramos crear un nuevo perro, simplemente tenemos que decirle al programa qué nombre, qué edad y qué raza tiene ese perro,
+y el constructor se encargará de crear el objeto con todas las demás propiedades ya incluidas.
